@@ -28,7 +28,7 @@ body {
 
 .mask__popup {
     background-color: rgba(0, 0, 0, 0.6); 
-    position: fixed;
+    /*position: fixed;*/
     left: 0;
     top: 0;
     left: 0;
